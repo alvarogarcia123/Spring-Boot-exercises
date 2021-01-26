@@ -1,0 +1,16 @@
+###
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Bilal",
+  "email": "bilal.ahmed@gmail.com",
+  "dob": "1995-12-17"
+}
+
+
+<> 2021-01-19T164518.400.html
+<> 2021-01-19T164431.400.html
+<> 2021-01-19T164321.400.json
+
+###
